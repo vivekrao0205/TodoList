@@ -20,7 +20,7 @@ A simple and clean To-Do List Android application built using **Java** and **And
 - **Language:** Java  
 - **IDE:** Android Studio  
 - **Architecture:** MVVM 
-- **Database:** Room (SQLite)  
-- **UI Components:** RecyclerView, CardView, Material Design Components
+- **Database:** Room (SQLite)
+  
 
 ---
